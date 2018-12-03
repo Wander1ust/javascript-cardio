@@ -1,2 +1,2 @@
 # javascript-cardio
-JavaScript challenges and solutions to sharpen your current knowledge
+JavaScript challenges and solutions to sharpen  current knowledge
